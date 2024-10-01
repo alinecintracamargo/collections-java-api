@@ -1,4 +1,4 @@
-package list.Pesquisa;
+package set.Pesquisa;
 
 import java.util.Objects;
 
